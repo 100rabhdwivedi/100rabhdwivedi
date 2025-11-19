@@ -43,8 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabhdwivedi&layout=compact&theme=synthwave" height="165">
 </p>
 
-## 🐍 Contribution Snake
-![Snake animation dark](https://github.com/100rabhdwivedi/100rabhdwivedi/blob/output/dist/github-contribution-grid-snake-dark.svg)
+## 📈 Contribution Graph
+![Saurabh's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=100rabhdwivedi&theme=react-dark&hide_border=true)
+
 
 
 
